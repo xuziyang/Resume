@@ -34,14 +34,12 @@
 - 熟悉TCP/IP协议,HTTP、HTTPS协议以及调优
 - 熟悉 Linux 操作系统原理
 - 分布分表 
-- NIO netty 
 - 熟悉常见的分布式协议与算法，Paxos、Multi-Paxos（Raft ZAB）、Quorum NWR、Gossip
 - 熟悉分布式事务，二阶段提交强一致性2PC, 最终一致性柔性事务 TCC 
 - 分布式协调工具：zookeeper
 - 消息中间件: 掌握kafka原理及集群布署
 - 自动化布署:Git、 Jenkins
 - OAuth2.0
-- 对开源感兴趣，修复过高性能网关ShenYu的数据同步bug
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 主要的工作经历
 
