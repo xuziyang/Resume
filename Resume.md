@@ -26,7 +26,7 @@
 
 - 精通Spring、SpringMVC 并阅读过相关源码，并可根据需要进行扩展
 - 精通Java、设计模式、 网络编程(netty)、并发编程、JVM内存管理及调优
-- 精通 Mysql,具有sql优化、索引优化、性能调优，主从备份，读写分离
+- 精通 Mysql,具有sql优化、索引优化、性能调优经验
 - 精通 Redis,具有集群搭建(Redis 、 Redis Cluster)、数据迁移等经验
 - 精通web容器，阅读过tomcat源码
 - 熟悉springcloud alibaba 并阅读过相关源码
